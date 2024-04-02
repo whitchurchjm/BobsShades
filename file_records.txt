@@ -1,0 +1,3 @@
+Customer ID: 3423 First Name: ethan Last Name: L Address: ada Phone Number: 23543434 
+Customer ID: 355 First Name: 13 Last Name: 21 Address: 3525 Phone Number: 23232323 
+Customer ID: 325235 First Name: Ethab Last Name: 0 Address: 3532523 Phone Number: 98989898 
